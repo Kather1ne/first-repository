@@ -30,7 +30,7 @@ div.background-img1 {
 }
 
 div.background-img2 {	
-    background-image: url('/img/main-good-size.jpg');  
+    background-image: url('https://kather1ne.github.io/first-repository/site/img/main-good-size.jpg');  
   	height: 244px;
     margin: 0;
     padding: 0;
@@ -112,12 +112,12 @@ li {
   
 }
 .ar1img {
-  background-image: url('/img/article-1-good-size.jpg');
+  background-image: url('https://kather1ne.github.io/first-repository/site/img/article-1-good-size.jpg');
   background-size: cover;
   background-position: center;  
 }
 .ar2img {
-  background-image: url('/img/article-2-good-size.jpg');
+  background-image: url('https://kather1ne.github.io/first-repository/site/img/article-2-good-size.jpg');
   background-size: cover;
   background-position: center;
 }
@@ -227,16 +227,16 @@ div.offer-row a {
 }
 
 .offimg1 {
-  background-image: url('/img/bottom1.jpg'); 
+  background-image: url('https://kather1ne.github.io/first-repository/site/img/bottom1.jpg'); 
 }
 .offimg2 {
-  background-image: url('/img/bottom2.jpg'); 
+  background-image: url('https://kather1ne.github.io/first-repository/site/img/bottom2.jpg'); 
 }
 .offimg3 {
-  background-image: url('/img/bottom3.jpg'); 
+  background-image: url('https://kather1ne.github.io/first-repository/site/img/bottom3.jpg'); 
 }
 .offimg4 {
-  background-image: url('/img/bottom4.jpg'); 
+  background-image: url('https://kather1ne.github.io/first-repository/site/img/bottom4.jpg'); 
 }
 
 .bottomlink-area {
