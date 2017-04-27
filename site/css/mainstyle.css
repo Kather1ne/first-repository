@@ -15,7 +15,11 @@
 }
 
 div.background-img1 {	
+<<<<<<< HEAD
     background-image: url('img/main-good-size.jpg');
+=======
+    background-image: url('https://kather1ne.github.io/first-repository/site/img/main-good-size.jpg');
+>>>>>>> 3a85f835ef8fda664ff7f78107516213f0854ad7
     position: relative;
     left:0;
     right:0;
@@ -30,7 +34,11 @@ div.background-img1 {
 }
 
 div.background-img2 {	
+<<<<<<< HEAD
     background-image: url('img/main-good-size.jpg');  
+=======
+    background-image: url('https://kather1ne.github.io/first-repository/site/img/main-good-size.jpg');  
+>>>>>>> 3a85f835ef8fda664ff7f78107516213f0854ad7
   	height: 244px;
     margin: 0;
     padding: 0;
@@ -115,12 +123,20 @@ li {
   
 }
 .ar1img {
+<<<<<<< HEAD
   background-image: url('img/article-1-good-size.jpg');
+=======
+  background-image: url('https://kather1ne.github.io/first-repository/site/img/article-1-good-size.jpg');
+>>>>>>> 3a85f835ef8fda664ff7f78107516213f0854ad7
   background-size: cover;
   background-position: center;  
 }
 .ar2img {
+<<<<<<< HEAD
   background-image: url('img/article-2-good-size.jpg');
+=======
+  background-image: url('https://kather1ne.github.io/first-repository/site/img/article-2-good-size.jpg');
+>>>>>>> 3a85f835ef8fda664ff7f78107516213f0854ad7
   background-size: cover;
   background-position: center;
 }
@@ -230,6 +246,7 @@ div.offer-row a {
 }
 
 .offimg1 {
+<<<<<<< HEAD
   background-image: url('img/bottom1.jpg'); 
 }
 .offimg2 {
@@ -240,6 +257,18 @@ div.offer-row a {
 }
 .offimg4 {
   background-image: url('img/bottom4.jpg'); 
+=======
+  background-image: url('https://kather1ne.github.io/first-repository/site/img/bottom1.jpg'); 
+}
+.offimg2 {
+  background-image: url('https://kather1ne.github.io/first-repository/site/img/bottom2.jpg'); 
+}
+.offimg3 {
+  background-image: url('https://kather1ne.github.io/first-repository/site/img/bottom3.jpg'); 
+}
+.offimg4 {
+  background-image: url('https://kather1ne.github.io/first-repository/site/img/bottom4.jpg'); 
+>>>>>>> 3a85f835ef8fda664ff7f78107516213f0854ad7
 }
 
 .bottomlink-area {
