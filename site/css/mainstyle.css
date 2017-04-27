@@ -15,7 +15,7 @@
 }
 
 div.background-img1 {	
-    background-image: url('/img/main-good-size.jpg');
+    background-image: url('img/main-good-size.jpg');
     position: relative;
     left:0;
     right:0;
@@ -30,7 +30,7 @@ div.background-img1 {
 }
 
 div.background-img2 {	
-    background-image: url('/img/main-good-size.jpg');  
+    background-image: url('img/main-good-size.jpg');  
   	height: 244px;
     margin: 0;
     padding: 0;
@@ -45,8 +45,11 @@ div.background-img2 {
   top: 25px;
   height: 50px;
   z-index: 2;
-  float: right; 
+  /*float: right; */
   width: 100%;
+  border: 0;
+  border-radius: 0;
+
   }
 div.img-bg-style {
       width: 67.4%;
@@ -112,12 +115,12 @@ li {
   
 }
 .ar1img {
-  background-image: url('/img/article-1-good-size.jpg');
+  background-image: url('img/article-1-good-size.jpg');
   background-size: cover;
   background-position: center;  
 }
 .ar2img {
-  background-image: url('/img/article-2-good-size.jpg');
+  background-image: url('img/article-2-good-size.jpg');
   background-size: cover;
   background-position: center;
 }
@@ -227,16 +230,16 @@ div.offer-row a {
 }
 
 .offimg1 {
-  background-image: url('/img/bottom1.jpg'); 
+  background-image: url('img/bottom1.jpg'); 
 }
 .offimg2 {
-  background-image: url('/img/bottom2.jpg'); 
+  background-image: url('img/bottom2.jpg'); 
 }
 .offimg3 {
-  background-image: url('/img/bottom3.jpg'); 
+  background-image: url('img/bottom3.jpg'); 
 }
 .offimg4 {
-  background-image: url('/img/bottom4.jpg'); 
+  background-image: url('img/bottom4.jpg'); 
 }
 
 .bottomlink-area {
